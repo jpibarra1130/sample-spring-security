@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost/world_domination_dev
+spring.datasource.username=root
+spring.datasource.password=
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.freemarker.template-loader-path=WEB-INF/ftl/
